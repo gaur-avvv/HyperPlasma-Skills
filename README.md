@@ -44,22 +44,22 @@ One question per message. Say "surprise me" at any point and it picks a coherent
 Uses the open `SKILL.md` format, supported by Claude Code, Codex, Cursor, Gemini CLI, GitHub Copilot, Roo Code, Windsurf and 30+ other agents via the `skills` CLI.
 
 ```bash
-npx skills add gaur-avvv/hyperplasma
+npx skills add gaur-avvv/HyperPlasma-Skills
 ```
 
 Target one agent or install globally:
 
 ```bash
-npx skills add gaur-avvv/hyperplasma -a claude-code
-npx skills add gaur-avvv/hyperplasma -g -a codex -a cursor -y
+npx skills add gaur-avvv/HyperPlasma-Skills -a claude-code
+npx skills add gaur-avvv/HyperPlasma-Skills -g -a codex -a cursor -y
 ```
 
 (Replace `gaur-avvv` with your GitHub username/org if you fork it.)
 
 ### Option 2: the bundled installer
 ```bash
-git clone https://github.com/gaur-avvv/hyperplasma.git
-cd hyperplasma
+git clone https://github.com/gaur-avvv/HyperPlasma-Skills.git
+cd HyperPlasma-Skills
 bash install.sh --agent claude            # ~/.claude/skills/hyperplasma
 bash install.sh --agent codex --project   # ./.codex/skills/hyperplasma
 bash install.sh --agent all               # every supported agent, user-level
