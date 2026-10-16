@@ -6,6 +6,24 @@ Before it writes a single line of UI code, your agent asks you to pick a **desig
 
 ![license](https://img.shields.io/badge/license-MIT-blue) ![format](https://img.shields.io/badge/format-SKILL.md-8A2BE2) ![agents](https://img.shields.io/badge/works%20with-Claude%20Code%20%7C%20Codex%20%7C%20Cursor%20%7C%20Gemini%20CLI%20%7C%20Copilot%20%7C%2030%2B%20more-black)
 
+<div align="center">
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/612119b8-6ec2-4bde-93a0-5359efc83584" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/68014797-1a6d-4e8a-9a95-6eb679997c2a" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/dcfa4c2b-e91c-42f1-a6fc-cde05a3b954f" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/4583885f-0ca0-42e0-9c29-733a586a5a43" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/af41eb92-7e70-42b5-993e-e945ab043fef" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/7acab9e5-83d7-402d-b574-73b062a69d9b" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/db9bb0e7-021f-46bd-b339-d3fc4ba11e3c" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/bc127a52-6cc2-4ed7-b920-d19f43b8d63c" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/abe99012-e998-4947-a699-1d96c6a3954b" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/76cc1235-3409-40a6-9c9d-d58a5970b6ed" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/f10c7d70-cdd9-49cb-bdd8-33522a62e833" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/d8c063ed-7e25-44ad-994a-c344bac81374" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/c27a0104-a965-46aa-972f-e61ac3277d1a" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/e8b1c1c2-9b2a-4ccd-aa95-e5fb53292d25" />
+<img width="100" height="75" alt="image" src="https://github.com/user-attachments/assets/019a01b2-d712-4d17-97e2-6f701236000e" />
+</div>
+
 ## What's inside
 
 | Catalogue | Source entries | Unique entries | Notes |
