@@ -10,4 +10,4 @@ Then write a short spec (style, fonts, palette, shape, motion, signature details
 
 Defaults: WCAG AA contrast, `prefers-reduced-motion` support, no more than 4 effects per view, no flashing above 3 per second, animate transform and opacity only. If the user says "surprise me" or "you choose", pick a coherent trio yourself. Skip any step the user has already decided.
 
-If you can read files, the full catalogues (300 styles, 400 font pairings, 500 animations) are in the `skills/hyperplasma/` folder of the HYPERPLASMA repo: read `SKILL.md` first, then only the reference files it names.
+If you can read files, the full catalogues (301 styles, 400 font pairings, 500 animations) are in the `skills/hyperplasma/` folder of the HYPERPLASMA repo: read `SKILL.md` first, then only the reference files it names.

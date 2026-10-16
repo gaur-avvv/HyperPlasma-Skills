@@ -23,10 +23,10 @@ def mapped(path, cols=2):
         dst.add(int(m.group(2)))
     return src, dst
 
-# styles 1-300
+# styles 1-301
 have = ids_in("styles/[0-9][0-9]-*.md", skip=("00",))
 src, dst = mapped(os.path.join(REF, "styles", "00-duplicate-map.md"))
-missing = [i for i in range(1, 301) if i not in have and i not in src]
+missing = [i for i in range(1, 302) if i not in have and i not in src]
 bad = sorted(d for d in dst if d not in have)
 if missing: errors.append(f"style IDs unresolved: {missing}")
 if bad: errors.append(f"style map targets missing: {bad}")

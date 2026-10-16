@@ -1,6 +1,6 @@
 ---
 name: hyperplasma
-description: Ask the user which visual design style, font pairing, and animation set to use before designing or building any website, landing page, dashboard, web app, portfolio, or UI, and describe each option so they can choose. Use this skill whenever the user asks to build, design, redesign, mock up, or restyle a site or interface and has NOT already named a style, fonts, or animations. Also use when they say "pick a style", "what design should I use", "give me design options", "which fonts", "font pairing", "which animations", "add motion", "glassmorphism or something else", or want to browse aesthetics, typography, or transitions. Contains 300 UI design styles, 400 heading+body font pairings, and 500 animations/transitions (Framer Motion, GSAP, CSS, Three.js/R3F, shaders), each with a one-line description.
+description: Ask the user which visual design style, font pairing, and animation set to use before designing or building any website, landing page, dashboard, web app, portfolio, or UI, and describe each option so they can choose. Use this skill whenever the user asks to build, design, redesign, mock up, or restyle a site or interface and has NOT already named a style, fonts, or animations. Also use when they say "pick a style", "what design should I use", "give me design options", "which fonts", "font pairing", "which animations", "add motion", "glassmorphism or something else", or want to browse aesthetics, typography, or transitions. Contains 301 UI design styles, 400 heading+body font pairings, and 500 animations/transitions (Framer Motion, GSAP, CSS, Three.js/R3F, shaders), each with a one-line description.
 license: MIT
 metadata:
   author: gaur-avvv
@@ -87,7 +87,7 @@ Confirm in one line ("Going with X + Y + Z: ..."), then build. Do not ask again 
 If the user says "surprise me", "you choose", or "just build it": pick one coherent trio (style + font group + 3 effects), state it in 3 lines, then build. Never ask more than one question per message.
 
 ## ID lookup rules
-The catalogues use the original numbering (styles 1-300, motion 1-500). Repeated entries are mapped, not removed:
+The catalogues use the original numbering (styles 1-301, motion 1-500). Repeated entries are mapped, not removed:
 - Style IDs that don't appear in `references/styles/01-10` are in `references/styles/00-duplicate-map.md`.
 - Motion IDs that don't appear in `references/motion/01-11` are in `references/motion/99-duplicate-map.md`.
 - Font pairs are in groups A-O; the original 30 categories are mapped at the bottom of the fonts file.
@@ -147,7 +147,7 @@ Read only the file you need.
 
 | File | Category |
 |---|---|
-| `references/styles/01-morphisms-light-material.md` | Morphisms, light and material effects (styles 1-10, 71, 92, 101-110, 175, 201-210) |
+| `references/styles/01-morphisms-light-material.md` | Morphisms, light and material effects (styles 1-10, 71, 92, 101-110, 175, 201-210, 301) |
 | `references/styles/02-layout-structure.md` | Layout and interaction structure (11-25, 73-75, 143-150, 153, 193) |
 | `references/styles/03-color-mood-genre.md` | Color, mood, genre, "-punk" (28-45, 120, 126-130, 281) |
 | `references/styles/04-art-movements.md` | Art movements (46-55, 121-125) |

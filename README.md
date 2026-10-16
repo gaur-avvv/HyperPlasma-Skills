@@ -28,7 +28,7 @@ Before it writes a single line of UI code, your agent asks you to pick a **desig
 
 | Catalogue | Source entries | Unique entries | Notes |
 |---|---|---|---|
-| Design styles | 300 | 238 | Glassmorphism, neo-brutalism, aurora, bento, retro OS, sci-fi HUD, art movements, textures, SaaS defaults |
+| Design styles | 301 | 239 | Glassmorphism, neo-brutalism, aurora, bento, retro OS, sci-fi HUD, art movements, textures, SaaS defaults |
 | Font pairings | 400 | 206 | 15 groups (SaaS, dev, luxury, wellness, fintech, gaming...), availability flags, fallbacks |
 | Animations | 500 | 203 | Framer Motion, GSAP, native CSS, Three.js/R3F, shaders, route transitions, micro-gestures |
 
@@ -116,7 +116,7 @@ hyperplasma/
 ├── skills/hyperplasma/
 │   ├── SKILL.md                      # workflow (agent reads this first)
 │   └── references/
-│       ├── styles/                   # 300 design styles (10 category files + duplicate map)
+│       ├── styles/                   # 301 design styles (10 category files + duplicate map)
 │       ├── fonts/pairings.md         # 400 font pairings (groups A-O)
 │       └── motion/                   # 500 animations (11 files + tokens + duplicate map)
 ├── adapters/                         # rule snippets for non-skill agents

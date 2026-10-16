@@ -35,3 +35,4 @@ Styles that mimic lighting, physical materials, or optics. Best for: portfolios,
 - **208. Mercury Glow** - mirror-finish silver elements that ripple like liquid metal on hover.
 - **209. Vitromorphism** - ultra-clear non-frosted glass, strong specular lines, deep refraction offsets.
 - **210. Aerosolmorphism** - fine color-spray mist that builds density only where actions occur.
+- **301. Liquid Chrome** - molten mirror-like surfaces that stretch with the cursor and cast oily multi-color iridescent reflection paths across the whole grid.
